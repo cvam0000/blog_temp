@@ -5,7 +5,10 @@ ARM  (advance RISC machine)[1990]
 - series  AX, RX , Mx 
 
 # Features
--
-
+- RISC (reduce instructions set computing)
+- LOAD and Store (Operations are only in the registers only Load and Store operations are in the memory)
+- Multilevel pipeline  (three level pipeline) to speed up flow of instructions .
+- The instructions set of Arm is uniform and fixed in length 32 bit ARM Processor have two instruction set :general 32 bit ARM instruction set and 16-bit Thumb instruction Set.
 # ARM Family
+-
 
