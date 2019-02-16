@@ -1,4 +1,6 @@
 ARM  (advance RISC machine)
 
 # Introduction 
+- 32 bit microcontroller 
+- series  AX, RX , Mx 
 
